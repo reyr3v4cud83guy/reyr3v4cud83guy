@@ -1,10 +1,8 @@
 - 👋 Hi, I’m ABDULLAHI AHMED
-- 👀 I’m interested in learning machine Learning and Alterficial Intelligences.
+- 👀 I’m  currently in my first phase of Software Development and Full-stack web developer
 - 🌱 I’m currently learning C++, python and Javascript
-- 💞️ I’m looking to collaborate on Backened web Development  and Devop
-6- 📫 How to reach me  through my gmail o
 - 😄 Pronouns: .Him/He..
-- ⚡ Fun fact
+ 
 
 <!---
 reyr3v4cud83guy/reyr3v4cud83guy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
