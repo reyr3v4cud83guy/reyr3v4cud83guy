@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ABDULLAHI AHMED
+- 👋 Hi, I’m ABDULLAHI AHMED OSMAN
 - 👀 I’m  currently in my first phase of Software Development and Full-stack web developer
 - 🌱 I’m currently learning C++, python and Javascript
 - 😄 Pronouns: .Him/He..
